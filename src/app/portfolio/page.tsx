@@ -59,7 +59,7 @@ export default function Portfolio() {
                 <div className="w-20 h-20 bg-gradient-to-r from-yellow-500 to-green-500 rounded-full flex items-center justify-center mx-auto mb-4">
                   <Target className="w-10 h-10 text-white" />
                 </div>
-                <div className="text-3xl font-bold text-gray-900 mb-2">150+</div>
+                <div className="text-3xl font-bold text-gray-900 mb-2">100+</div>
                 <div className="text-gray-600">Successful Campaigns</div>
               </div>
 
@@ -67,7 +67,7 @@ export default function Portfolio() {
                 <div className="w-20 h-20 bg-gradient-to-r from-green-500 to-blue-600 rounded-full flex items-center justify-center mx-auto mb-4">
                   <DollarSign className="w-10 h-10 text-white" />
                 </div>
-                <div className="text-3xl font-bold text-gray-900 mb-2">₹5M+</div>
+                <div className="text-3xl font-bold text-gray-900 mb-2">₹50k+</div>
                 <div className="text-gray-600">Revenue Generated</div>
               </div>
             </div>
