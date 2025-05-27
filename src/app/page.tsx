@@ -5,15 +5,7 @@ import { ArrowRight, Target, DollarSign, Brain, Settings, MessageCircle, Star, T
 import Link from "next/link"
 import Header from "@/components/header"
 import Footer from "@/components/footer"
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1EVKQMG6MK"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-1EVKQMG6MK');
-</script>
 export default function Home() {
   return (
     <div className="min-h-screen">
